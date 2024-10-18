@@ -1,0 +1,47 @@
+Government of Canada items in transit (net)                                      410
+Total assets                                                                     297
+Canadian dollar deposits, members of Payments Canada                             297
+Total, Government of Canada, direct and guaranteed securities                    297
+Canadian dollar deposits, Government of Canada                                   297
+Total, notes in circulation                                                      297
+Total liabilities                                                                297
+All other assets                                                                 297
+Foreign currency deposits                                                        297
+Other investments                                                                297
+Foreign currency liabilities                                                     297
+All other liabilities                                                            297
+Canadian dollar deposits, other                                                  297
+Loans and receivables, other                                                     297
+Loans and receivables, securities purchased under resale agreements              297
+Loans and receivables, advances to members of Payments Canada                    297
+Government of Canada, bonds, over 10 years                                       297
+Government of Canada, bonds, 5 years to 10 years                                 297
+Government of Canada, bonds, over 3 years to 5 years                             297
+Government of Canada, bonds, 3 years and under                                   297
+Total, Government of Canada, bonds                                               297
+Government of Canada, Treasury Bills                                             297
+Securities sold under repurchase agreements                                      208
+Equity                                                                           208
+Bank of Canada cheques outstanding                                               205
+Canadian dollar deposits, other members of Payments Canada                       205
+Canadian dollar deposits, chartered banks                                        205
+Canadian dollar deposits, foreign central banks and official institutions        205
+Cheques on other banks                                                           205
+Investment in Industrial Development Bank (IDB)                                  205
+Loans and receivables, advances to Government of Canada                          205
+Other bills                                                                      205
+Canadian dollar deposits, Government of Canada enterprises                       205
+Accrued interest on investments                                                  198
+Notes in circulation, held by chartered banks                                    114
+Notes in circulation, held by others                                             114
+Foreign currency assets                                                          114
+Canada mortgage bonds                                                            114
+Provincial money markets securities                                               70
+Bankers' acceptances                                                              70
+Commercial paper                                                                  70
+Real return bonds                                                                 54
+Provincial bonds                                                                  54
+Corporate bonds                                                                   54
+Loans and receivables, other advances                                             54
+Derivatives - Indemnity agreements with the Government of Canada, assets          54
+Derivatives - Indemnity agreements with the Government of Canada, liabilities     54
