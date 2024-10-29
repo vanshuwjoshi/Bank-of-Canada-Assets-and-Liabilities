@@ -1,6 +1,6 @@
 # The Evolution of the Bank of Canada's Balance Sheet: Pre-COVID, During COVID, and Post-COVID Recovery
 
-![Bank of Canada](images\BoC.jpg)
+![Bank of Canada](https://github.com/vanshuwjoshi/Bank-of-Canada-Assets-and-Liabilities/blob/main/images/BoC.jpg)
 
 [Dashboard Link](https://public.tableau.com/views/BankofCanada-BalanceSheet/Main?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -23,7 +23,7 @@ This project analyzes the evolution of the Bank of Canada's balance sheet before
 
 ## Analysis Breakdown
 
-![Assets](images\assets.png)
+![Assets](https://github.com/vanshuwjoshi/Bank-of-Canada-Assets-and-Liabilities/blob/main/images/assets.png)
 
 1. **Pre-COVID (2018 - early 2020)**:
    - The balance sheet shows a stable trend, with minor fluctuations corresponding to typical economic cycles.
@@ -32,7 +32,7 @@ This project analyzes the evolution of the Bank of Canada's balance sheet before
    - Sharp increase in both assets and liabilities due to the Bank of Canada's large-scale asset purchases and liquidity support measures.
    - The primary drivers include government bond purchases (particularly short-term bonds) to ensure financial stability and credit availability.
 
-   ![Bonds](images\bonds.png)
+   ![Bonds](https://github.com/vanshuwjoshi/Bank-of-Canada-Assets-and-Liabilities/blob/main/images/bonds.png)
 
 3. **Post-COVID Recovery (2022 - Present)**:
    - Gradual reduction of assets and liabilities, signaling a normalization of the Bank’s balance sheet as emergency measures are rolled back.
