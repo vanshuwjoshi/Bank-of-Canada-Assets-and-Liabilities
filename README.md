@@ -1,5 +1,7 @@
 # The Evolution of the Bank of Canada's Balance Sheet: Pre-COVID, During COVID, and Post-COVID Recovery
 
+[Dashboard Link](https://public.tableau.com/views/BankofCanada-BalanceSheet/Main?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview
 
 This project analyzes the evolution of the Bank of Canada's balance sheet before, during, and after the COVID-19 pandemic. The COVID-19 pandemic dramatically altered the global financial landscape, and the Bank of Canada's balance sheet reflects the changes that occurred in response to the crisis. This analysis focuses on three key periods: 
